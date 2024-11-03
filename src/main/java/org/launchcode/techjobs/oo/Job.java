@@ -138,7 +138,6 @@ public class Job {
                 "Employer: " + jobEmployer + System.lineSeparator() +
                 "Location: " + jobLocation + System.lineSeparator() +
                 "Position Type: " + jobPositionType + System.lineSeparator() +
-                "Core Competency: " + jobCoreCompetency +
-                System.lineSeparator());
+                "Core Competency: " + jobCoreCompetency + System.lineSeparator());
     }
 }
